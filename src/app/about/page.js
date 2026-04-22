@@ -3,7 +3,7 @@ import Link from "next/link";
 import { FaBullseye, FaEye, FaLightbulb } from "react-icons/fa";
 
 export const metadata = {
-  title: "About | Techno",
+  title: "About | LS Electronics",
 };
 
 const AboutPage = () => {
