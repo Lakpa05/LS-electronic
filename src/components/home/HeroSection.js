@@ -10,7 +10,7 @@ const HeroSection = () => {
         <div className="flex flex-col md:flex-row items-center gap-5">
           <div className="md:w-1/2 mb-8 md:mb-0">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4 dark:text-gray-200">
-              Innovative <span className="text-primary">Techno</span> Products
+              Innovative <span className="text-primary">LS Electronics</span> Products
             </h1>
             <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem
