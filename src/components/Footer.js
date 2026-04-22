@@ -42,7 +42,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           <div>
             <h4 className="text-xl font-semibold">
-              <i className="fas fa-laptop" /> Techno
+              <i className="fas fa-laptop" /> LS Electronic
             </h4>
             <p className="text-gray-400 mb-4">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum,
@@ -138,7 +138,7 @@ const Footer = () => {
           </div>
         </div>
         <p className="text-center border-t pt-8 text-gray-400">
-          © 2026 Techno. All rights reserved.
+          © 2026 LS Electronic . All rights reserved.
         </p>
       </div>
     </footer>

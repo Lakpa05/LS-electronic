@@ -7,7 +7,7 @@ import {
 } from "@/api/products";
 
 export const metadata = {
-  title: "Products | Techno",
+  title: "Products | LS Electronics",
 };
 
 const ProductsPage = async ({ searchParams }) => {
